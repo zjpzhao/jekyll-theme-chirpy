@@ -60,8 +60,8 @@ The `screen` command launches a terminal in the background which can be detached
 **g** means all matches, only one bracket will be matched by default if without it  
 **^-** add characters at the beginning of the file name  
 
-其他用法可以参考这篇blog：<https://www.cnblogs.com/mianbaoshu/p/11772876.html>  
-关于perl正则表达式可以参考：<https://perldoc.perl.org/perlre>
+Other rules：<https://www.cnblogs.com/mianbaoshu/p/11772876.html>  
+Perl regular expressions：<https://perldoc.perl.org/perlre>
 
 
 ---
